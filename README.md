@@ -32,7 +32,7 @@ User → Spring Boot → FastAPI → ML + Google Maps
 
 &#x20;                        ↓
 
-&#x20;                  Redis + MySQL
+&#x20;                   Redis + MySQL
 
 
 
